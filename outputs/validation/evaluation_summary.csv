@@ -1,0 +1,2 @@
+image_count,mae,mape,count_accuracy,mean_runtime_seconds,total_predicted,total_ground_truth,mape_excluded_zero_gt,tp,fp,fn,precision,recall,f1
+27,33.370370370370374,300.2787436922052,0.0,0.2602962962962963,1220,319,1,39,1181,280,0.031967213114754096,0.12225705329153605,0.050682261208577
